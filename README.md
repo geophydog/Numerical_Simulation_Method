@@ -1,2 +1,2 @@
-# Numerical_Simulation_Method
-Numerical simulation method demo
+# Numerical Simulation Method
+Numerical simulation method demos of course Computational Geophysics.
